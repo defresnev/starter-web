@@ -5,3 +5,6 @@ Mon Joli Projetc'est le readme mais y a rien a lire
 BOOOOOOOOOOOOOOOOOOOALLLLLLLLLLLLLLEEEEEEEEEEEEEEEEz
 ajoute encore
 ajoute encore et encore
+
+
+@Copyright
